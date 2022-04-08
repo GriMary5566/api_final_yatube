@@ -24,7 +24,7 @@ git clone git@github.com:GriMary5566/api_final_yatube.git
 
 ```
 
-cd api_final_yatube
+cd api_final_yatube/
 
 ```
 
